@@ -267,7 +267,7 @@ public void Configure (aplicativo IApplicationBuilder, IHostingEnvironment env, 
 ---
 ## Coleção do Postman
 
-Baixe a coleção de carteiro [aqui](https://1drv.ms/u/s!AshsJMsiN-avgQCgr5NIFpZCoM5r) para executar os endpoints da API por meio do gateway
+Baixe a coleção do Postman [aqui](https://1drv.ms/u/s!AshsJMsiN-avgQCgr5NIFpZCoM5r) para executar os endpoints da API por meio do gateway
 
 ![Postman](https://h9ykoq.dm.files.1drv.com/y4mROgcn_on2fHOuDePdeG-CfHybIpOETMHlCfLqoBJIUqLa-PFKk8InJ2Ei6XLkHyrS7dXtF0htZQnHyjFX3fZ-lDHAi93QY568uJRbPuJGHBANeBpd3rt9A4iBGCXf3akpCHEumuB7kLPSILOww_U6HFHp5UBF8aylwj5DcCSxJPt161RfVKDFKjyNuK5yxYqc--M9XbTTJ12mqZL-dtrbA?width=1898&height=1026&cropmode=none)
 
