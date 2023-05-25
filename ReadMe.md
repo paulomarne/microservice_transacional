@@ -265,7 +265,7 @@ public void Configure (aplicativo IApplicationBuilder, IHostingEnvironment env, 
 ! [Swagger api doc] (https://h9wqrg.dm.files.1drv.com/y4m_QKAwbWqvjgqVire-cVSue_EKgCJsNEwUca9MztPMbsMlDBmFtaIQbllXjiLVwZCJnittfbHBYQ3DiQwnyZrJ2Tz_qf8Paqms91ZVgWUm8_Wcc9b39y9_PbYSxtQ0KhA5u9E4FBkg6aNDgL207ZODhVQl8UgQyYpAV1II_UVmSnEfD5SionZ0kwbSZCnsMyv7kK-e7ym00Nk5sjbvlODiw?width=1892&height=874&cropmode=none)
 
 ---
-## Coleção do Carteiro
+## Coleção do Postman
 
 Baixe a coleção de carteiro [aqui](https://1drv.ms/u/s!AshsJMsiN-avgQCgr5NIFpZCoM5r) para executar os endpoints da API por meio do gateway
 
